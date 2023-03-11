@@ -9,7 +9,7 @@ import java.util.Collections;
 
 public class Main {
 
-    static int retupe_nColumn() {
+    static int retype_nColumn() {
         while (true) {
             System.out.print("Введите корректный номер колонки: ");
             try {
@@ -32,13 +32,13 @@ public class Main {
             // второй аргумент переданный при вызове программы принимается за путь до файла
             switch (args.length) {
                 case 0:
-                    nColumn = retupe_nColumn();
+                    nColumn = retype_nColumn();
                     break;
                 case 1:
                     try {
                         nColumn = Integer.valueOf(args[0])-1;
                     } catch (Exception e) {
-                        nColumn = retupe_nColumn();
+                        nColumn = retype_nColumn();
                         break;
                     }
                     break;

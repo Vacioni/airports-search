@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55197421-28a5-4763-b2a9-aadc5379bea4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vasenoi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vasenoi/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,12 +124,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678230597659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="airports-search-v1.1&#10;Изменил проверку входных аргументов">
+      <created>1678566458675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678566458675</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="airports-search-v1&#10;Накидал основной функционал" />
-    <option name="LAST_COMMIT_MESSAGE" value="airports-search-v1&#10;Накидал основной функционал" />
+    <MESSAGE value="airports-search-v1.1&#10;Изменил проверку входных аргументов" />
+    <option name="LAST_COMMIT_MESSAGE" value="airports-search-v1.1&#10;Изменил проверку входных аргументов" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/airports_search$Main.ic" NAME="Main Coverage Results" MODIFIED="1678564498973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
